@@ -5,7 +5,9 @@
 ________________________________________
 ### Project Developer
 Omar Ibrahim Elashry   (Data Analyst & Business Development Manager)
+
 LinkedIn: https://www.linkedin.com/in/omar-ibrahimelashry
+
 Email: omarelashry27@gmail.com
 ________________________________________
 ### Project Overview
