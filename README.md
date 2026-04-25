@@ -1,14 +1,14 @@
-## HR Insights Analysis Dashboard
-# By Eng/ Omar Ibrahim Elashry
+# HR Insights Analysis Dashboard
+## By Eng/ Omar Ibrahim Elashry
 
-# Project Title: HR Insights Analysis Dashboard
+### Project Title: HR Insights Analysis Dashboard
 ________________________________________
-# Project Developer
+### Project Developer
 Omar Ibrahim Elashry   (Data Analyst & Business Development Manager)
 LinkedIn: https://www.linkedin.com/in/omar-ibrahimelashry
 Email: omarelashry27@gmail.com
 ________________________________________
-# Project Overview
+### Project Overview
 This project presents a comprehensive human resources analytics dashboard designed to monitor key workforce metrics, including employee count, attrition rates, demographic distributions, job role performance, and compensation trends. The dashboard supports strategic HR decision-making by identifying risk areas and patterns in employee turnover.
 ________________________________________
 # Tools Used
